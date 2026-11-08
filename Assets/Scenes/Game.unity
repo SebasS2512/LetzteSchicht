@@ -47249,7 +47249,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ea5617d2948d544e99770c4a52ac631, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NightManager
-  startNight: 3
+  startNight: 1
   lastNight: 4
 --- !u!4 &1666526533
 Transform:
