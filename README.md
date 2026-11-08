@@ -1,7 +1,7 @@
-===============================================================================
+
 LETZTE SCHICHT
 Ein First-Person-Horrorspiel in Unity
-===============================================================================
+
 
 Der Spieler uebernimmt die Nachtschicht als Hausmeister an einer Hochschule
 und arbeitet vier Naechte lang seine Routine ab - waehrend das Gebaeude sich
